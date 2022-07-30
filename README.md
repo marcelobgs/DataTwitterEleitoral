@@ -13,9 +13,14 @@ Análise de Sentimento dos Presidenciáveis
 
 ---
 
+- Coletando dados do Twitter.
+
 # Etapa 3 - EDA, Storytelling e Visualização
 
 ---
+
+- Verificando se não há algum dado faltante ou incompleto.
+- Refinando os dados.
 
 # Etapa 4 - Análise de Sentimentos
 
