@@ -26,6 +26,12 @@ Análise de Sentimento dos Presidenciáveis
 
 ---
 
+- Atribuição de identificar, extrair, quantificar e estudar estados afetivos e informações subjetivas.
+- A biblioteca escolhida para esta etapa é a VADER-Sentiment-Analysis.
+
 # Etapa 5 - Deploy
 
 ---
+
+- Implantação em forma de website a apresentação dos dados obtidos apartir das etapas anteriores.
+- [a link](https://marcelobgs-datatwittereleitoral-prod-app-np90tk.streamlitapp.com/)
