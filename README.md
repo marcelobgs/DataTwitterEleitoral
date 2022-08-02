@@ -35,5 +35,5 @@ Análise de Sentimento dos Presidenciáveis
 ---
 
 - Implantação em forma de website a apresentação dos dados obtidos a partir das etapas anteriores.
-- Deploy realizado com (streamlit)[https://streamlit.io/]
+- Deploy realizado com [streamlit](https://streamlit.io/)
 - [DataTwitterEleitoral](https://marcelobgs-datatwittereleitoral-prod-app-np90tk.streamlitapp.com/)
