@@ -28,7 +28,7 @@ Análise de Sentimento dos Presidenciáveis
 ---
 
 - Atribuição de identificar, extrair, quantificar e estudar estados afetivos e informações subjetivas.
-- A biblioteca escolhida para esta etapa é a VADER-Sentiment-Analysis[vaderSentiment](https://github.com/cjhutto/vaderSentiment).
+- A biblioteca escolhida para esta etapa é a VADER-Sentiment-Analysis [vaderSentiment](https://github.com/cjhutto/vaderSentiment).
 
 # Etapa 5 - Deploy
 
