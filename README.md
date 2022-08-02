@@ -1,5 +1,5 @@
 # DataTwitterEleitoral
-Análise de Sentimento dos Presidenciáveis
+Análise de Sentimento dos Presidenciáveis: Luís Inácio Lula da Silva, Jair Messias Bolsonaro e Ciro Gomes.
 
 # Etapa 1 - Entendendo o Problema
 
