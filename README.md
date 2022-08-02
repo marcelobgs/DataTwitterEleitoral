@@ -14,6 +14,7 @@ Análise de Sentimento dos Presidenciáveis
 ---
 
 - Coletando dados do Twitter.
+- Nesta etapa foi usado a biblioteca: [snscrape](https://github.com/JustAnotherArchivist/snscrape)
 
 # Etapa 3 - EDA, Storytelling e Visualização
 
@@ -27,11 +28,11 @@ Análise de Sentimento dos Presidenciáveis
 ---
 
 - Atribuição de identificar, extrair, quantificar e estudar estados afetivos e informações subjetivas.
-- A biblioteca escolhida para esta etapa é a VADER-Sentiment-Analysis.
+- A biblioteca escolhida para esta etapa é a VADER-Sentiment-Analysis[vaderSentiment](https://github.com/cjhutto/vaderSentiment).
 
 # Etapa 5 - Deploy
 
 ---
 
-- Implantação em forma de website a apresentação dos dados obtidos apartir das etapas anteriores.
+- Implantação em forma de website a apresentação dos dados obtidos a partir das etapas anteriores.
 - [DataTwitterEleitoral](https://marcelobgs-datatwittereleitoral-prod-app-np90tk.streamlitapp.com/)
