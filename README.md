@@ -6,15 +6,15 @@ Análise de Sentimento dos Presidenciáveis
 ---
 
 - Proposta para a construção de uma aplicação que realiza análise de sentimento dos candidatos à presidência.
-- Análise de Sentimentos - Extração de sentimentos a partir de um texto (Positivo, Negativo, Neutro)
-- Linguagem de Programação: Python
+- Análise de Sentimentos - Extração de sentimentos a partir de um texto (Positivo, Negativo, Neutro).
+- Linguagem de Programação: Python.
 
 # Etapa 2 - Coletando os Dados
 
 ---
 
 - Coletando dados do Twitter.
-- Nesta etapa foi usado a biblioteca: [snscrape](https://github.com/JustAnotherArchivist/snscrape)
+- Nesta etapa foi usado a biblioteca: [snscrape](https://github.com/JustAnotherArchivist/snscrape).
 
 # Etapa 3 - EDA, Storytelling e Visualização
 
@@ -35,5 +35,5 @@ Análise de Sentimento dos Presidenciáveis
 ---
 
 - Implantação em forma de website a apresentação dos dados obtidos a partir das etapas anteriores.
-- Deploy realizado com [streamlit](https://streamlit.io/)
-- [DataTwitterEleitoral](https://marcelobgs-datatwittereleitoral-prod-app-np90tk.streamlitapp.com/)
+- Deploy realizado com [streamlit](https://streamlit.io/).
+- [DataTwitterEleitoral](https://marcelobgs-datatwittereleitoral-prod-app-np90tk.streamlitapp.com/).
